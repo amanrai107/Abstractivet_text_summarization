@@ -1,1 +1,1 @@
-# Abstractivet_text_summarization
+# Abstractive text summarization on amazon reviews dataset.
